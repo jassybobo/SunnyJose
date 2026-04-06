@@ -16,6 +16,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 | Data Analytics and Machine learning Project  | <a href="https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis">Data Modeling project</a>
 | Predictive Machine Learning Model | <a href="https://github.com/SunnyJose/Breast-Cancer-ML-Model-Naive-Bayes-Approach-">Predictive ML Model</a>
 | ETL Data Pipeline Project | <a href="https://github.com/SunnyJose/Stock-Market-ETL-Data-Pipeline">ETL Data Pipeline</a>
+| Return to Sender (RTS) Logistics Optimization | <a href="https://github.com/jassybobo/Logistics-RTS-Analysis">RTS Logistics Optimization</a>
 
 ## Tools
 ## Data Science and Analytics
